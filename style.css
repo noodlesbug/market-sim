@@ -53,10 +53,11 @@ body {
 }
 
 .read-more {
-  background-color: #f6d55c; /* soft yellow */
+  background-color: #f4c542; /* warm golden yellow */
   color: #000;
   padding: 0.5rem 1rem;
   text-decoration: none;
   font-weight: bold;
   border-radius: 4px;
 }
+
